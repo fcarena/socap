@@ -43,7 +43,7 @@ header('Pragma: no-cache');
 <meta charset="utf-8" />
 <meta name="description" content="" />
 <meta name="format-detection" content="telephone=no" />
-<meta name="author" content="Luis Humberto Balam Gonzalez" />
+<meta name="author" content="Luis Humberto Balam Gonzalez - Modificado por Victor Romero" />
 <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		
 <!--  alta en Google -->
